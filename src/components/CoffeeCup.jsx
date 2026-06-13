@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import coffee from "../assets/coffee.png";
+import coffee from "../assets/Coffee.png";
 
 function CoffeeCup(){
 
